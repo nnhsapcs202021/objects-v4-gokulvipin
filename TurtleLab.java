@@ -13,6 +13,31 @@ public class TurtleLab
         crush2.setPenColor(Color.BLUE);//changes the object to red
         crush1.setWidth(10);//changes the object's width to 10
         crush2.setWidth(10);//changes the object's width to 10
+        //This makes the first turtle draw a 2d "H"
+        crush1.forward(75);
+        crush1.turnRight();
+        crush1.forward(20);
+        crush1.turnRight();
+        crush1.forward(30);
+        crush1.turnLeft();
+        crush1.forward(20);
+        crush1.turnLeft();
+        crush1.forward(30);
+        crush1.turnRight();
+        crush1.forward(20);
+        crush1.turnRight();
+        crush1.forward(75);
+        crush1.turnRight();
+        crush1.forward(20);
+        crush1.turnRight();
+        crush1.forward(30);
+        crush1.turnLeft();
+        crush1.forward(20);
+        crush1.turnLeft();
+        crush1.forward(30);
+        crush1.turnRight();
+        crush1.forward(20);
+        
         
         
         
